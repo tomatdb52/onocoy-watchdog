@@ -6,7 +6,7 @@ An automated smart watchdog designed for Onocoy stations running via RTKBase. Th
 
 1. **Download the script:**
    ```bash
-   wget https://raw.githubusercontent.com/tomatdb52/onocoy-smart-watchdog/main/onocoy_watchdog.sh
+   wget [https://raw.githubusercontent.com/tomatdb52/onocoy-watchdog/main/onocoy_watchdog.sh](https://raw.githubusercontent.com/tomatdb52/onocoy-watchdog/main/onocoy_watchdog.sh)
    ```
    
 2. **Make it executable:**
